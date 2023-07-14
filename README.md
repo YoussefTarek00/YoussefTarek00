@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @YoussefTarek00
-- 👀 I’m interested in Web Development
 
 
 <!---
